@@ -1,0 +1,657 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The earthly and heavenly building opened in a sermon on 2d. Corinthians, Chap. V. Verse 1, at the funeral of the late ... Henry Hurst ... / by Richard Adams ...</title>
+            <author>Adams, Richard, 1626?-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26342</idno>
+            <idno type="STC">Wing A490</idno>
+            <idno type="STC">ESTC R20830</idno>
+            <idno type="EEBO-CITATION">12294404</idno>
+            <idno type="OCLC">ocm 12294404</idno>
+            <idno type="VID">58983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58983)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 908:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The earthly and heavenly building opened in a sermon on 2d. Corinthians, Chap. V. Verse 1, at the funeral of the late ... Henry Hurst ... / by Richard Adams ...</title>
+                  <author>Adams, Richard, 1626?-1698.</author>
+               </titleStmt>
+               <extent>[4], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Weld ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hurst, Henry, 1629-1690.</term>
+               <term>Bible. --  N.T. --  Corinthians, 2nd, V, 1 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58983:1"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>The EARTHLY AND HEAVENLY Building, Opened in a SERMON ON 2d. Corinthians, <hi>Chap.</hi> v. <hi>Verſe</hi> 1. AT THE FUNERAL OF THE <hi>Late Reverend Miniſter of Jeſus Chriſt, <hi>Henry Hurſt, M. A.</hi>
+               </hi> Sometime Fellow of <hi>Merton Colledge</hi> in <hi>Oxon.</hi>
+            </p>
+            <p>Preached and publiſhed at the earneſt Deſires of his Relatives and People.</p>
+            <p>By <hi>Richard Adams,</hi> M. A. ſometimes Fellow of <hi>Brazen-Noſe</hi> Colledge in <hi>Oxon</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Weld</hi> at the <hi>Crown</hi> between the <hi>Temple-Gates</hi> in <hi>Fleet Street,</hi> MDCIC.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:58983:2"/>
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 2 <hi>line</hi> 21. <hi>r. Mutable. p.</hi> 3. <hi>l.</hi> 2. <hi>after,</hi> as <hi>r.</hi> in. <hi>l.</hi> 6. <hi>in Marg. r.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>p.</hi> 9. <hi>l.</hi> 24. <hi>after</hi> of <hi>r.</hi> a. <hi>p.</hi> 12. <hi>l.</hi> 24. <hi>r.</hi> may. <hi>p.</hi> 13. <hi>l.</hi> 12. <hi>after</hi> Diſciples <hi>r.</hi> with this; <hi>in my Fathers Houſe</hi> (ſaith he) <hi>there are many. p.</hi> 14 <hi>l.</hi> 24. <hi>r.</hi> preſerv'd. <hi>p.</hi> 16. <hi>Marg. r ſcibilis. p.</hi> 17. <hi>Marg. r.</hi> Emanare.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58983:2"/>
+            <head>To the much reſpected Mrs. <hi>DOROTHY H<g ref="char:V">Ʋ</g>RST,</hi> the ſorrowful Widow of Mr. <hi>HENRY H<g ref="char:V">Ʋ</g>RST,</hi> late Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel, together with his People, who deſi<g ref="char:EOLhyphen"/>red the Preaching and publiſhing of this enſuing Sermon.</head>
+            <p>THO I am ſenſible of ſeveral Failures in this Diſcourſe, which Second Thoughts might have ſomewhat amended, by expunging, altering, or adding ſomewhat which came to the Ear: Yet, that I might not incur more Cenſures, by varying much from what was preached; I have altered, added, or omitted nothing material, further than what is requiſite betwixt the <hi>Pulpit</hi> and the <hi>Preſs:</hi> That what you have made current, by your Approbation and Deſires, may hopefully paſs with fewer cenſorious Remarks.</p>
+            <p>To you the <hi>diſconſolate Relict of the Deceaſed:</hi> I heartily wiſh, for the allay of your Grief, and compoſure of your Spirit, That you would ſeriouſly deliberate upon what that excellent young Gentlewo<g ref="char:EOLhyphen"/>man, in her Day, Mrs. <hi>Katherine Stubbs,</hi> ſaid to her Husband on her Death-bed, deſiring him not to mourn for her, upon this ſtrong Reaſon: <hi>That ſhe was not in a Caſe to be mourned for, but rather to be rejoiced of, for that ſhe ſhould paſs from Earth to Heaven, from Men to holy Angels, Cherubims, and Seraphims; to holy Saints, Patriarchs and Fathers, yea, to God himſelf.</hi> Changing Perſons. I doubt not, but upon the departure of your moſt pious Son <hi>Arthur,</hi> you have heard your own dear Husband, that Righteous <hi>Abel</hi> (as I may allude) comforting of you his Wife, from the ſame unanſwerable Reaſon. <hi>And being Dead he yet ſpeaketh</hi>
+               <note n="a" place="margin">Heb. 11.4.</note>: I pray you hear his Voice. Now is the time you ſhould hear his Voice from God: As you know the Day before he was ſummoned hence, in his laſt Sermon, He was preſ<g ref="char:EOLhyphen"/>ſing the People, <hi>to Day to hear God's Voice.</hi> If you now ſtop your Ears, and do not mind it; his ſurviving Son and Daughter, your dear Children, who will yet a while be more led by their Mo<g ref="char:EOLhyphen"/>thers Example, than by her Directions, will heardly believe their Fathers preſent Joys. I queſtion not, but their Father ſaid to You,
+<pb facs="tcp:58983:3"/>at your laſt great Mourning, as <hi>Elkanah</hi> ſaid to his Wife <hi>Han<g ref="char:EOLhyphen"/>nah</hi>
+               <note n="b" place="margin">2 Sam. 1.8.</note>, Dorothy, <hi>Why weepeſt thou? Why eateſt thou not? And why is thy Heart grieved? Am not I better to thee than Sons? Thy Maker is thy Husband, (the Lord of Hoſt is his Name.</hi>
+               <note n="c" place="margin">Iſ. 54.5.</note> Doth not he ſay unto you now? Am not I better than Ten Husbands? Let theſe deareſt young ones know, that you really believe it, by your cheerful Carriage, that when Nature hath had its Courſe with decencie, and they begin to conſider what it is to want ſuch an earthly Father, as they had, they may begin to hope and ſay, <hi>Our Heavenly Father will be better to us than Ten earthly Fathers.</hi> Add not therefore to your ſweet Childrens Loſs, by caſting your ſelf into their Father's Grave; which you are likely to do, if you immoderately mourn over it. You know what your ex<g ref="char:EOLhyphen"/>cellent Husband's laſt Lecture at <hi>High-gare</hi> was, as if it ſounded his own Knell, from Luke <hi>2.29. Lord now letteſt thou thy Ser<g ref="char:EOLhyphen"/>vant depart in peace, for mine Eyes have ſeen thy Salvation.</hi>
+            </p>
+            <p>To you that were of his Congregation and ſpecial Charge, having in the cloſe of the Sermon urged a ſteddy Practice of what your wor<g ref="char:EOLhyphen"/>thy <hi>Paſtor</hi> did deliver and recommend to you, I ſhall add little more: Yet I would be your Remembrancer of what he recorded in his Ser<g ref="char:EOLhyphen"/>mon, at the Funeral of Mr. <hi>Cawton,</hi> as his Words ſpoken to his People, viz. <hi>Prize a Guide that will be faithful to your Souls; keep the Unity of the Spirit into which you are called by the Goſpel; and ſeek God earneſtly for both.</hi> I ſhall add no more, but heartily begg of God, That he would take care of the mournful Widow and hers; and of the Widowed People. And ſupply all your Wants, upon the departure of ſo obliging a Relative, through Jeſus Chriſt, the beſt Husband, and chief Shepheard. In his Hands He leaves you, who looking to Jeſus, doth <hi>commend you all to God, and to the Word of his Grace, which is able to build you up, and give you an Inheritance among all them which are Sanctified</hi>
+               <note n="d" place="margin">Act 20.30.</note>.</p>
+            <closer>
+               <signed>
+                  <hi>Your Souls Friend and Servant, in our dear Lord Chriſt,</hi> Richard Adams.</signed>
+               <dateline>
+                  <date>April <hi>24. 1690.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:58983:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. Cor.</hi> Chap. <hi>v.</hi> Verſe the <hi>1ſt.</hi>
+                  </bibl>
+                  <p>For we know, that if our earthly Houſe of this Tabernacle were diſſolved, we have a Build<g ref="char:EOLhyphen"/>ing of God, an Houſe not made with Hands, eternal in the Heavens.</p>
+               </q>
+            </epigraph>
+            <p>THE very <hi>Firſt Particle</hi> in my Text, doth introduce it as a Confirmation of that the <hi>Apoſtle</hi> had laſt aſſerted, in the precedent Chapter; wherein he ſhews how far the Reward of the ſincere <hi>Miniſters</hi> and <hi>Members</hi> of Chriſt, doth ſurpaſs their Suffering: Having premis'd a diſtinction of the <hi>inward</hi> and <hi>outward Man,</hi> which laſt, when adorn'd with a Saints Eye, aims not at the things <hi>which are ſeen,</hi> they are but <hi>temporarie,</hi> and ſo lye under a diſparagement, but at the things which are <hi>not ſeen,</hi> they are <hi>eternal,</hi> and ſo moſt deſirable, as may by a due com<g ref="char:EOLhyphen"/>paring of Circumſtances further appear, from that <hi>Two-fold Proſpect,</hi> which the quick ſighted Apoſtle doth preſent to our View in the Words read: Wherein we have The
+<list>
+                  <item>
+                     <hi>STATE</hi>
+                  </item>
+                  <item>&amp;</item>
+                  <item>
+                     <hi>ACT</hi>
+                  </item>
+               </list> of a Believer.
+<note place="margin">Cognitum &amp; Cognitio.</note>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 1. The <hi>State</hi> or <hi>Thing known</hi> of a true Believer, who hath a <hi>double Reſidence,</hi> one at <hi>Preſent,</hi> another <hi>Future;</hi> one <hi>here,</hi> another <hi>hereafter;</hi> one <hi>above,</hi> another <hi>below:</hi> One <hi>viſi<g ref="char:EOLhyphen"/>ble,</hi> which is the Object of the bodily Eye, and ſeen by it;
+<pb n="2" facs="tcp:58983:4"/>the other <hi>inviſible,</hi> which is the Object of the ſpiritual Eye, not ſeen by the Eye of <hi>Senſe,</hi> but only by the Eye of <hi>Faith.</hi> And therefore by a <hi>Metaphor</hi> drawn from <hi>Architecture,</hi> the <hi>believing Soul</hi> comes under our Conſideration.</p>
+            <p>As in her
+<list>
+                  <item>
+                     <hi>LOWER</hi>
+                  </item>
+                  <item>and</item>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>PPER</hi>
+                  </item>
+               </list> Habitation.</p>
+            <p>In the <hi>Text,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the <hi>Former</hi> is called an <hi>Houſe,</hi> of the ſame Nature and Structure with that of Unbeleevers.</p>
+            <p>The <hi>Latter,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> a <hi>Building</hi> of another nature, a more ſtately Structure, proper to the Saints.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The <hi>Firſt</hi> is no other than the organized Body, unto which the <hi>Soul</hi> is at preſent united: As e're while the <hi>Corps</hi> of our deceaſed Friend and Brother (which we have now brought, to be ſhortly depoſed in the Lap of our common Mother the Earth) was the <hi>Houſe</hi> wherein his great Soul did for a time reſide; even as ours do, whilſt we live in theſe Bodies we bear about; and this <hi>Houſe</hi> of ours, or <hi>State</hi> of Life is pre<g ref="char:EOLhyphen"/>ſented to our View more diſtinctly in its
+<list>
+                  <item>
+                     <hi>Corruptible Foundation,</hi>
+                  </item>
+                  <item>
+                     <hi>Immutable Station,</hi>
+                  </item>
+                  <item>
+                     <hi>Inevitable Diſſolution.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Corruptible Foundation:</hi> The material Principle is but of a terrene Quality,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>earthly</hi> in its Original, and Compoſition: <hi>The firſt Man is of the Earth earthly</hi>
+               <note n="a" place="margin">1. Cor. 15.47.</note>, ſo frail be ſure ſince the Fall that there is no ſoundneſs in it, <hi>whoſe Foundation is in the Duſt cruſhed before the Moth</hi>
+               <note n="b" place="margin">Job 4.19.</note>, more eaſily mouldering away, when God doth but lay his Hand on it, than a <hi>Moth</hi> is bruiſed betwixt a Mans Fingers; yet that little Animal, weaker than a Worm, may, when diſpoſed of at the Plea<g ref="char:EOLhyphen"/>ſure of the Almighty, overthrew this Foundation. Neither is the Foundation frail, but alſo it hath,</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>A mutable Station:</hi> The State of the Soul in this Life is not fixed, but in a perpetual Motion; and therefore the A<g ref="char:EOLhyphen"/>poſtle
+<pb n="3" facs="tcp:58983:4"/>appoſitely compares this earthly Body, wherein we ſojourn a little, as an Inn, unto a <hi>Tabernacle;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Hypallage.</hi>
+               </note> [Earthly Houſe of <hi>this Tabernacle</hi>] or as <hi>Beza</hi> would render it by a Figure, [the Tabernacle of our earthly Houſe] it being as moveable an Habitation, as it's a frail Foundation. Some would de<g ref="char:EOLhyphen"/>rive the Word from an <hi>Hebrew</hi> Root, which ſignifies <hi>he dwelt.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Others from a <hi>Greek,</hi> ſignifying <hi>a Shadow:</hi> Sith a Tabernacle at the firſt was compoſed of Boughs and Leaves for the ſhad<g ref="char:EOLhyphen"/>ing of Perſons from the Heat and Wet: But not to be curi<g ref="char:EOLhyphen"/>ous about the Name, our <hi>Body</hi> may be aptly enough com<g ref="char:EOLhyphen"/>pared to the thing called a <hi>Tabernacle,</hi> or <hi>Tent,</hi> which was very obvious to St. <hi>Paul</hi> who had exerciſed himſelf in <hi>Tent<g ref="char:EOLhyphen"/>making</hi>
+               <note n="c" place="margin">Act. 18.3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>: For,</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The very <hi>erecting of a Tent</hi> or <hi>Tabernacle,</hi> whether we conſider it under a <hi>Civil,</hi> or <hi>Military</hi> Notion, doth import the <hi>brevity</hi> of the Inhabitants ſtay in it: When the <hi>Apoſtle Peter</hi> writes
+<note n="d" place="margin">2 Pet. 1.13.</note> 
+               <hi>I think it meet as long as I am in this Taber<g ref="char:EOLhyphen"/>nacle, to ſtir you up, by puting you in remembrance.</hi> He inti<g ref="char:EOLhyphen"/>mates, That he had not long to live, and was willing to live to the beſt purpoſe, by doing the moſt good during his ſhort ſtay: As when the <hi>Iſraelites</hi> built themſelves Tents, being in a travelling Poſture, not having any certain Habi<g ref="char:EOLhyphen"/>tations. And as they were upon the way Sojourners and Strangers, ſo are all of us in the Body, for <hi>here have we no continuing City</hi>
+               <note n="e" place="margin">Heb. 13: 14.</note>, Though alas! we may ſee ſome ſuch Fools, in their own practical Judgments, feathering their Neſts with the ſilly Birds, that think not how ſoon it may be removed. Yet even an <hi>Heathen</hi>
+               <note n="*" place="margin">
+                  <hi>Gorgias Leon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ih:</hi> in <hi>Stobaeus,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> (who neither conſidered the Cauſe, nor knew the Remedy) could by the Eye of a natural Underſtanding call it, <hi>A rotten fleeting little Cottage of ſhort duration;</hi> wherein the Soul muſt not ſtay long, before the bodily frame of Nature will ſoon be taken in pieces by Death.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>The carrying of Tents and Tabernacles about,</hi> doth further note the ſtate of Pilgrims and Travellers, that paſs from place to place, as we do move without reſt, whilſt in the Body. So the Prophet elegantly makes uſe of the Compa<g ref="char:EOLhyphen"/>riſon
+<pb n="4" facs="tcp:58983:5"/>
+               <note n="f" place="margin">Iſay. 38.12.</note>, <hi>Mine Age is departed, and is removed from me as a Shepherds Tent:</hi> Which is ſet up a little while for Shelter, and removed to another Paſture at pleaſure. As it is reported of the <hi>Nomades</hi> in <hi>Scythia,</hi> (as well as <hi>Numidia</hi>) that they al<g ref="char:EOLhyphen"/>ways remove their <hi>Tents</hi> with their Cattle; which plainly ſets forth our State here to be no leſs Tranſitory than Tem<g ref="char:EOLhyphen"/>porary; and therefore the Apoſtle might well liken it to a <hi>Tabernacle,</hi> eſpecially if we conſider further what he opens to our View, and that is.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>The inevitable Diſſclution</hi> of this earthly <hi>Tabernacle,</hi> which is ſo temporary and tranſitory,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>[if it were diſſolved.]</hi> Which Suppoſition, with reference to the Conſequent, doth evince, that without all diſpute it will be diſſolved, or taken down, as a Tent that is looſed and laid up when the Siege is raiſed, the City obtained, and the War ceaſed. It may be as a Tent is ſometimes cut aſunder, and trod underfoot, or burnt up: So the Body by ſome violent Death, may be ſooner de<g ref="char:EOLhyphen"/>moliſhed, than otherwiſe in the ordinary courſe of Nature, it would be: But tho it eſcape that Violence, it cannot be long before it fall in pieces of its own accord; <hi>For duſt thou art, and unto duſt thou ſhalt return</hi>
+               <note n="g" place="margin">Gen. 3.19.</note>, Though thy Conſtitu<g ref="char:EOLhyphen"/>tion, thy Care and Labour, with timely Advice of Phyſiti<g ref="char:EOLhyphen"/>ans, may help a little; yet here is no ſtay long for <hi>the Life of thy hand,</hi> to allude to that Expreſſion of the Prophet,
+<note n="h" place="margin">Iſ. 57.10.</note> 
+               <hi>It is appointed unto all Men once to die;</hi> and then this Taber<g ref="char:EOLhyphen"/>nacle will unavoidably give way for true Beleevers to go in<g ref="char:EOLhyphen"/>to that Receptacle which is nextly deſcribed in my Text, <hi>viz.</hi>
+            </p>
+            <p n="2">II. <milestone type="tcpmilestone" unit="unspecified" n="II"/> 
+               <hi>A Building</hi> of a more noble Structure, peculiar to the <hi>Saints,</hi> who do immediately paſs into it, upon the Diſſoluti<g ref="char:EOLhyphen"/>on of their <hi>earthly Tabernacles;</hi> even a State of Glory pro<g ref="char:EOLhyphen"/>vided by God, for the ſeparate Souls to enter into, and abide in immediately after Death:
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> [<hi>We have a Building of God, an Houſe not made with Hands, eternal in the Heavens.</hi> When a Period is put unto the <hi>Scene</hi> of this Life, (much the ſame Word radically, with this that ſignifys a <hi>Tabernacle</hi>) then the Saints Souls, who have acted their parts therein, ſhall forth<g ref="char:EOLhyphen"/>with paſs into thoſe <hi>Manſions,</hi> which our Saviour went be<g ref="char:EOLhyphen"/>fore,
+<pb n="5" facs="tcp:58983:5"/>to make ready for the Reception and Entertainment of his Followers
+<note n="i" place="margin">John 14.2.</note>. I know ſome do expound this Building to be only the <hi>glorified Body:</hi> But if we well conſider this de<g ref="char:EOLhyphen"/>ſcription in my <hi>Text</hi> (which I ſhall preſently open) with reference to the 7th. and 8th. <hi>Verſes in this Chapter,</hi> noting the Souls immediate Paſſage out of the <hi>Body</hi> into this <hi>Building,</hi> we may nextly; and moſt fitly take it for the Glory, with which the ſanctified Soul, upon its departure is forthwith cloathed, and afterwards wherewith the Body ſhall be a<g ref="char:EOLhyphen"/>dorn'd at the Reſurrection. The <hi>Building,</hi> we ſee is ſet forth to our View from Four <hi>Circumſtances.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The <hi>Architect,</hi> the <hi>Founder,</hi> and <hi>Builder;</hi> 'Tis a Build<g ref="char:EOLhyphen"/>ing <hi>of God.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> This Manſion Seat of Glory is no other than <hi>the Paradiſe of God</hi>
+               <note n="k" place="margin">Rev. 2.7.</note>; a rare Work, where all due Pro<g ref="char:EOLhyphen"/>portions are obſerved, and all Ornaments rightly choſen and placed, raviſhing the Eye of the Beholder. Not only is it in a general Way the <hi>Paradiſe of God,</hi> as he is the Au<g ref="char:EOLhyphen"/>thor of the whole Creation, but as he hath appointed it for his more peculiar Pallace, to be more glorious than the reſt, for his more eſpecial Reſidence. This he hath ordained for the chief Seat of his Kingdom, which no Soul enſlaved to Sa<g ref="char:EOLhyphen"/>tan, ſhall ever ſee, or enter into, until he be regenerated by the Holy Spirit. Into this Holy of Holies, which the glori<g ref="char:EOLhyphen"/>ous God did deſign for his own Chamber of Preſence, no unclean thing can be admitted. Again, as it is deſcribed from the Author, ſo from</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>The Nature and Compoſure of the Fabrick</hi> which is <hi>[not made with Hands]</hi> of no humane Artifice,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but of a tranſcen<g ref="char:EOLhyphen"/>dent ſpiritual Nature, infinitely ſurpaſſing in the framing of it; the rareſt Myſteries that all the moſt skillful handi-crafts Men in the World can deviſe, being like that other Work of Gods immediate Power, for Chriſt <hi>Tabernacling</hi> here be<g ref="char:EOLhyphen"/>low
+<note n="l" place="margin">Heb. 9.11.</note>. As the Subject which is made fit for it, is to be cir<g ref="char:EOLhyphen"/>cumciſed with the <hi>Circumciſion made without Hands</hi>
+               <note n="m" place="margin">Coll. 2.11.</note>, <hi>i. e.</hi> ſpiritual, and not ſeen; ſo was this goodly Fabrick framed and modell'd by God himſelf, in a moſt ſpiritual and glo<g ref="char:EOLhyphen"/>rious way, far above the reach of our finite Apprehenſions,
+<pb n="6" facs="tcp:58983:6"/>according to the Counſel of Gods own Will. Again it is deſcribed from</p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>The duration, or ſtrength and laſtingneſs of it.</hi> The ſta<g ref="char:EOLhyphen"/>bility and firmneſs of a building, doth exceedingly commend the excellency of it;
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> now this is a Building <hi>made to laſt for ever.</hi> 'Tis <hi>without end,</hi> as well as <hi>without hand.</hi> It was prepared from the Foundation of the World
+<note n="n" place="margin">Matt. 25.34.</note>, and it will <hi>laſt</hi> when this World is ended. 'Twill never go to decay or ruine: when all tears are wiped away from our Eyes, we ſhall ſee this Proſpect will never grow leſs Glorious throughout the days of <hi>Eternity;</hi> which may more eaſily be conceived, if we conſider how it is deſcrib'd from,</p>
+            <p n="4">4. <milestone type="tcpmilestone" unit="unspecified" n="4"/> Its <hi>Scituation aloft,</hi> far above the narrow ſight of any mortal Eye <hi>[in the Heavens]</hi> which do much ſurmount,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> in dignity, the Skie ennamel'd with the Stars that we caſt our Eye upon; even there where the Empyrean ſeat of glory, the Chair of State, and Throne of the moſt high God is. Thus having view'd the <hi>Twofold State</hi> of a Believing Soul, ſo far as the Text makes a diſcovery, which was, <hi>The thing Known</hi> of a Believer. I am now breifly to unfold,</p>
+            <p>Secondly,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/> 
+               <hi>The Knowing act of a Believer [we know]</hi> St. <hi>Paul</hi> was not dubious about his future bleſſed State,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but he and o<g ref="char:EOLhyphen"/>ther believers, excerciſing of their Faith on ſure grounds, were fully perſwaded of poſſeſſing that building they had an in<g ref="char:EOLhyphen"/>tereſt in: Here's a proſpect excells all other, here's the Roy<g ref="char:EOLhyphen"/>alty of ſight. He doth not ſay our <hi>Opinion is,</hi> we ſhall have; but noting the certainty, conſidering the Principles of Faith, on which He did proceed; taking in others with himſelf, ſaith He, as confidently as if it had been a thing known by a <hi>Mathematical</hi> demonſtration, <hi>[we know we have]</hi> which is as certain, as if we were in poſeſſion of, <hi>an Heavenly habitation.</hi> Our Apoſtle alſo hath the ſame word Originaly, refering to future retribution, concerning <hi>Servants</hi> as well as <hi>Maſters</hi>
+               <note n="o" place="margin">Col. 3.24. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Knowing that of the Lord ye ſhall receive the reward of the inheri<g ref="char:EOLhyphen"/>tance: and that ye alſo have a Maſter in Heaven.</hi> Here He aſ<g ref="char:EOLhyphen"/>ſerts Believers aſſurance of an intereſt in that ſtate, by the ear<g ref="char:EOLhyphen"/>neſt deſires after it, which are wrought in their Hearts, by the Holy Spirit.</p>
+            <pb n="7" facs="tcp:58983:6"/>
+            <p> Having (with what convenient brevity I could) Explain<g ref="char:EOLhyphen"/>ed the words, I might eaſily from the <hi>Context,</hi> the <hi>Contexture</hi> of the words themſelves, and the <hi>Particular Materials</hi> me<g ref="char:EOLhyphen"/>rion'd under each part, commend unto you very many <hi>Obſer<g ref="char:EOLhyphen"/>vations.</hi> But I ſhall only pitch upon <hi>Three.</hi> viz. <hi>Two</hi> from the Twofold <hi>State,</hi> and one from the <hi>Act</hi> of St <hi>Paul</hi> and o<g ref="char:EOLhyphen"/>ther Believers.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>1</label> 1. <hi>Our eſtate in the</hi> Body, <hi>is Corruptable, Mutable and Diſſolvable.</hi>
+            </p>
+            <p>Even believers here in this life, do ſtay but a while in an earth<g ref="char:EOLhyphen"/>ly tabernacle, which muſt be pull'd in pieces; We ſee this is evident from the firſt Proſpect, that the <hi>Apoſtle</hi> gives us of his own, and others Condition in this preſent World, be<g ref="char:EOLhyphen"/>ing common with all Men: <hi>David</hi> would have it very ſeriouſ<g ref="char:EOLhyphen"/>ly thought on by us, that, <hi>Verily every Man at his beſt State is altogether Vanity;</hi> and therefore He prays for himſelf, as every one of us ſhould do, not in impatiency, but with piety, <hi>Lord make me to know mine end, and the Meaſure of my days, what it is: that I may know how frail I am</hi>
+               <note n="p" place="margin">Pſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9.</note>. i.e. Practically to Conſider the days of our Pilgrimage, and our fleeting con<g ref="char:EOLhyphen"/>dition, as good old <hi>Jacob</hi> did; and <hi>Eliphaz</hi> told <hi>Job, that theſe houſes of Clay are deſtroyed,</hi> or beaten to pieces, <hi>from Morning to Evening,</hi> and <hi>ſo periſh without any regarding</hi>
+               <note n="q" place="margin">Job 4.19, 20</note>. Oh! that we were perſwaded now to regard it. But I am afraid too many even whiles I am treating upon this Theam, are ſay<g ref="char:EOLhyphen"/>ing in their Hearts, this is nothing but an old beaten Subject, we have often heard of: and ſlight the benefit they might gain by a Practical Conſideration of this neceſſary point.</p>
+            <p>Which is ſo clearly evident from Experience, <hi>and</hi> the Epithets given to Mans life,</p>
+            <p n="1">1. <hi>From moſt ample Experience,</hi> for above 5000 years publiſh'd by all ſorts of Men who have Complain'd of their weak Conſtitution, and Helpleſs Condition, And no Contribution of Creatures could free them from Diſolution</p>
+            <p n="1">
+               <pb n="8" facs="tcp:58983:7"/> 1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Their meak Conſtitution,</hi> we have had Scriptural Ex<g ref="char:EOLhyphen"/>perience already atteſting; and might produce many more inſances, that in our whole frame, and every bodily part, ve are Corruptible, Variable, and Diſolvable. The Build<g ref="char:EOLhyphen"/>ing cannot be ſtable and durable, if all the Materials be rot<g ref="char:EOLhyphen"/>en and periſhable: and therefore ſaith <hi>Job</hi>
+               <note n="r" place="margin">Job 6.11.</note>, <hi>What is my ſtrength that I ſhould hope? and what is mine end, that I ſhould prolong my Life?</hi> And elſewhere
+<note n="s" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 17.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, <hi>I have ſaid to Corruption, Thou art my father: to the Worm, Thou art my mother, and my ſiſter. And where is now my hope.</hi> Alas! Man is but a piece of <hi>brittle Earth</hi> nearly made up,
+<note place="margin">Terra fri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bilis.</note> that is ready continually to crumble in pieces and moulder away. Yea and by reaſon of the union, ſince the poyſon of Sin hath ſpread it ſelf into every part and faculty, even the Soul and Spirit ſuffers whilſt it ſtays in this Houſe, by reaſon of it's Craſineſs: and when the Soul hath left this Houſe, then the ſtrewing of the moſt Fragrant Flowers, will not long countervail the noiſome ſcent of its Corruption, and notwithſtanding the ſweeteſt Embalm<g ref="char:EOLhyphen"/>ings, the Coffin wherein it is laid, is lined with an unſavory Corps.</p>
+            <p n="2">2. Experience further acquaints us with Mens Complaints of <hi>their Helpleſs Condition,</hi> ſhewing that they have no ſtrength to ſupport their Tottering Houſe; but every little thing doth not only trouble them in it, but alſo turn them out of it. <hi>Man that is born of a Woman is of few days and full of Trouble</hi>
+               <note n="t" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 14.1.</note>. Every thing diſturbs him, and diſſorders him. The Fire, the Aire, the Wind, the Lightning, the Water, the Smoak, the Duſt of the Earth, a Fly, a little Stone generated within our own Bowels, our Meat, our Drink, our Phyſick, our Paſſions, our Griet, our Joy, our Fear, <hi>&amp;c.</hi> May in<g ref="char:EOLhyphen"/>troduce Death and lead us to our Graves, as they have done many before they were aware. Two fits of an Ague could diſſolve <hi>Tamerlane,</hi> when they ſhak'd him to Death in the midſt of his great hopes and greateſt Power, when he was prepar<g ref="char:EOLhyphen"/>ing for the utter rooting out of the <hi>Ottoman</hi> family, and the Conqueſt of the <hi>Graecian</hi> Empire. The moſt Jolly and ſpright<g ref="char:EOLhyphen"/>ful Commander is ſoon ſent away, if God do but <hi>change his Countenance</hi>
+               <note n="u" place="margin">
+                  <hi>Job.</hi> 14.20.</note>. Again</p>
+            <p n="3">
+               <pb n="9" facs="tcp:58983:7"/> 3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> Experience proves that <hi>no Contribution of Creatures could free Men from their Diſſolution;</hi> No ſhift can ſecure us from Deaths Arreſt unto Judgment. The Confluence of all thoſe things, we are apt ſo much to deſire, yield but ſmall comfort, nay ſome times they prove Croſſes. Alas! What can all the Profits, Preferments, Pleaſures, Priviledges of this World avail to the ſupport of this <hi>Earthly Houſe,</hi> one day beyond it's appointed time? All they who run Toyling, Sweating, Con<g ref="char:EOLhyphen"/>triving, and wearing out their Life, with Labour, in their grand Inqueſt after theſe things: and ſo making themſelves more Miſerable out of fear of Miſery, will one day Subſcribe to the truth on the <hi>Tomb</hi> of <hi>Sardanapalus,</hi> who is ſaid to have one hand in poſture of Filliping, reaching forth with this <hi>Motto, Omnia nec tanti.</hi> All is not worth a Fillip. <hi>What pro<g ref="char:EOLhyphen"/>fit hath a Man of all his Labour which he taketh under the Sun</hi>
+               <note n="w" place="margin">Eccleſ. 1.3.</note>. Thus we ſee the evidence of the point from Experience.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>From the Epithets given to Mans Life,</hi> both in Scripture and Humane Story, the point is further evident. In Scripture, <hi>What is your Life, but a Vapour that appeareth a little time and Vaniſheth away,</hi>
+               <note n="x" place="margin">Jam. 4.4.</note> look in other places, and what is it? But <hi>a Shadow, a Flood, a Flower, a Watch in the Night, a Race, a Cloud, a Tale that is told, a Bird flying, a Ship ſayling, a Pilgrimage,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>a Fight, a Smoak, a Sleep,</hi> (Yea) <hi>a Dream, a Vain-Shew.</hi> In Hu<g ref="char:EOLhyphen"/>mane Story, ſaith <hi>Pindar, Man is but the dream of Shadow,</hi> and Uliſſes in Sophocles, <hi>While we live, we are but meer Images, or a vain, inconſtant ſhaddow.</hi> ſaith <hi>Lipſuis</hi> in his own Epitaph, <hi>ſhall I deal plainly with you; All Humane things (not Learning Excepted) are meer Smoak, ſhaddows, Vanity, or in ſhort Nothings.</hi> I need not add any more for <hi>Evidence,</hi> only a little for <hi>Inference.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Inference </seg>
+               </label>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Learn. <hi>To ſee what miſtaken apprehenſions they have, who look for full Content in the Body.</hi> Thereby miſplacing their af<g ref="char:EOLhyphen"/>fections, in ſuffering them to run out moſt, upon thoſe things which appertain to this tabernacle. Alas! how many, even Profeſſors of Godlineſs, who ſay they have here <hi>no Continuing City:</hi> yet ſith their Converſation is ſo much below their Pro<g ref="char:EOLhyphen"/>feſſion, they ſhew that it is plain in their Practical judgments,
+<pb n="10" facs="tcp:58983:8"/>they are <hi>Terrae filij,</hi> Sons of the Earth, Citizens of the World, and <hi>Terrae Filiae,</hi> Daughters of the Earth, now raiſing <hi>Puffie Pyramids</hi> on their heads, after the manner of <hi>Aegypt.</hi> They <hi>mind Earthly things,</hi> They ſet their affections cheifly, if not only, upon their houſe of this Tabernacle. They really pre<g ref="char:EOLhyphen"/>fer the Material, to the Spiritual Building. They indeed (with the Senſual <hi>Iſraelites</hi>) prefer <hi>Aegypt to Canaan,</hi> And in their heart approve that Profane <hi>Cardinals</hi> ſaying, who af<g ref="char:EOLhyphen"/>firm'd, <hi>He would not give his part in</hi> Paris, <hi>for his part in</hi> Para<g ref="char:EOLhyphen"/>dice. I may appeal to what is written with legible Characters in many of your own Conſciences for the proof of this <hi>In<g ref="char:EOLhyphen"/>ference.</hi> But let the <hi>Heathen Moraliſt,</hi>
+               <note n="*" place="margin">Seneca <hi>Major ſum &amp; ad majo<g ref="char:EOLhyphen"/>ra genitus, quam ut mancipium ſim corporis mei.</hi>
+               </note> take us off ſaying. <hi>I am greater, and born to far greater things, than to be a Slave to my Body.</hi> Let us I beſeech you, for the Future, If we may be here any longer, not dote upon this periſhing ſtate: But remember always, whiles we blame <hi>Eſau</hi> for prefering a Meſs of Pottag above his Birthright; we do Condemn our ſelves, in ſetting our hearts upon theſe Earthly Tabernacles, and prefering of them to the Heavenly. And therefore Learn</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>To deaden our affections to the very beſt of theſe Tranſitorie things.</hi> Let's not be diſcontented and immoderately afflicted, when we ſee any of our Friends Tabernacles are looſed and taken down. Lay no claim to an abiding place in this preſent World: Neither we nor our Friends have here any ſetled Manſions; but only fleeting Tabernacles. And therefore, (tho' we ought to be ſenſible of the departure of our Friends) Let's not think our ſelves undon, when we ſee them taken in pieces. And as we ſhould not place our Contentment in our preſent ſtate; So neither ſhould we be diſcontented, when we find our Friends to be remov'd out of it. Let's therefore change our opinion concerning theſe outward things, which we are apt to over rate, ſee them as indeed they are, Empty, Unſatisſing, and Changeable; and then we ſhall not cry and whine like <hi>Children</hi> without underſtanding; or as <hi>Heathens</hi> without hopes; either when we looſe them, or when we muſt leave them; If then we be true Believers, who paſs out of this <hi>Changeable,</hi> into an <hi>
+                  <g ref="char:V">Ʋ</g>nchangeable</hi> ſtate. which leads me to</p>
+            <pb n="11" facs="tcp:58983:8"/>
+            <p> A Second Obſervation.
+<label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>2</label> 
+               <hi>That a future State of a Believer is of God, Excellent, and Eternal in the Heavens.</hi>
+            </p>
+            <p>When the Soul of a Sincere Servant of God, is looſed from this frail Tabernacle, it enters into the Pallace of Glory, there to remain in that Bleſſed State for ever. Holy Saints leav<g ref="char:EOLhyphen"/>ing the Body, they do in a Spiritual ſence, <hi>take the Wings of a Dove, ſly away and are at reſt.</hi> No ſooner <hi>uncloath'd,</hi> but <hi>cloath'd upon, Mortality being ſwallowed of Life,</hi>
+               <note n="y" place="margin">Rev. 19.8. <hi>with v.</hi> 3, 4.</note> In the beauties of Holineſs, the Souls of the Saints departed, are Gloriouſly cloathed with long white Robes, which is the righteouſneſs of the Saints here in their Pilgrimage, God <hi>guides them with his Counſel</hi> and afterwards receives them to Glory.
+<note n="z" place="margin">Pſal 73.24.</note>
+            </p>
+            <p>The time will not permit me (ſo far as the Scripture re<g ref="char:EOLhyphen"/>veals) to give you a <hi>Proſpect</hi> of this fair Building in its ſeveral parts: otherwiſe I might in ſeveral particulars Illuſtrate the nature of this Bleſſed State, which is a very large and a pleaſ<g ref="char:EOLhyphen"/>ant Subject. For I might ſhew (1) How this Building is moſt Commodiouſly ſeated, in the Continent of Compleat Hapi<g ref="char:EOLhyphen"/>neſs, the Kingdom of Heaven, which was before the Earth was framed, <hi>in a City that hath Foundations, whoſe builder and maker</hi> is <hi>God.</hi>
+               <note n="a" place="margin">Heb. 11.10.</note> (2) How the Lord Jeſus Chriſt doth receive the Spirit of the Believer as he did <hi>Stephens,</hi> upon the diſſolution of this Earthly Tabernacle. (3) How He doth not only diſſintangle it from all bodily infirmities, but free it from all Clouds of Errors and miſshapprehenſions. And then (4) How He doth actually poſſeſs it of that Manſion, where there is the abſence of all Evil, and the preſence of all good, the Ceſſation of Miſery, and the Collation of Felicity, a Glorious Harmony of Proportions, which take all that ſee it, and enter into it. Then (5) How He doth lead and con<g ref="char:EOLhyphen"/>joyn the Soul to the Bleſſed Society, of an <hi>Innumerble Company of Holy Angels and the Spirits of juſt Men made perfect</hi>
+               <note n="b" place="margin">Heb. 12.22, 23.</note>. And then (6) How He doth with that Glorious Society, in this moſt bright and beautiful Poſeſſion give it the enjoyment of the Beatificat Viſion. And laſtly, which is the compleating Glory of theſe Glories, How He will reunite it again, to its own Body Spiritualiz'd and Glorify'd, and own it as a King
+<pb n="12" facs="tcp:58983:9"/>at the great Coronation Day, before all the World. But I muſt content my ſelf only to name things, that thereby I may quicken your Souls, when you retire into your Cloſets this Evening, to contemplate upon them. Believe it! This is a moſt ſutable Exerciſe after a Diſcourſe at a Funeral: And if you neglect Meditation upon ſuch things as theſe, when you have been bringing your beloved Friend to his long Home; I fear, the next day, if God ſhould call you to a Reckoning, you will be able to give but a poor account of the Leſſon that God reads to you from the <hi>Spectacle</hi> before your Eyes, nor from the <hi>Sermon</hi> that comes to your Ears, tho it ſhould have been preached to you by an Angel.</p>
+            <p>For the <hi>Confirmation</hi> of the Point,
+<label type="milestone">
+                  <seg type="milestoneunit">Confirm. </seg>
+               </label> 
+               <hi>That the believing Soul paſſeth out of the Body into Glory,</hi> I might produce ſeveral Ar<g ref="char:EOLhyphen"/>guments, yet I ſhall but briefly ſuggeſt theſe <hi>Three.</hi> From the
+<list>
+                  <item>Verity of the Promiſe,</item>
+                  <item>Dignity of the Purchaſe,</item>
+                  <item>Excellency of the Preparation and Proviſion.</item>
+               </list>
+            </p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> From the <hi>Verity of the Promiſe,</hi> made by God who can<g ref="char:EOLhyphen"/>not lye. <hi>This is the Promiſe that he hath promiſed us, even eter<g ref="char:EOLhyphen"/>nal Life</hi>
+               <note n="c" place="margin">1 John 2.25. Tit. 1.2.</note>, He aſſureth his Servants, who ſincerely follow him, That they ſhall be no loſers by their Change: An eter<g ref="char:EOLhyphen"/>nal weight of Glory will infinitely overweigh all their Af<g ref="char:EOLhyphen"/>flictions, and that they muſt be ſure of upon his Word. <hi>Ve<g ref="char:EOLhyphen"/>rily</hi> (ſaith he
+<note n="d" place="margin">Matt. 19.28, 29.</note> 
+               <hi>every one of you who have followed me in the re<g ref="char:EOLhyphen"/>generation; that have forſaken Houſes, or Brethren, or Siſters, or Father, or Mother, or Wife, or Children, or Lands, for my Name Sake, ſhall receive an hundred Fold, and ſhall inherit eternal Life.</hi> When they have parted with all they had, then they ſhall be received to him to poſſeſs all things. Again,</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>From the Dignity of the Purchaſe.</hi> This heavenly Edi<g ref="char:EOLhyphen"/>fice was paid for, with a Price of no leſs worth than the Blood of God. This Inheritance of the Saints in light is <hi>in<g ref="char:EOLhyphen"/>corruptible,</hi> and that <hi>fadeth not away,</hi> being it is a <hi>purchaſed Poſſeſſion</hi>
+               <note n="e" place="margin">Eph. 1.14. 1 Pet. 1.4, 19.</note>, procured by the <hi>pretious Blood of Chriſt,</hi> (that's the moſt valuable Conſideration) who being <hi>God-Man</hi> in one Perſon, becauſe no other Creature was able, undertook to
+<pb n="13" facs="tcp:58983:9"/>be Mediator of the New Teſtament, that by means of his Death, for the Redemption of Tranſgreſſion they which are called might receive the <hi>Inheritance promiſed</hi>
+               <note n="f" place="margin">Heb. 9.15.</note>, which is <hi>preſently, forthwith</hi> upon their diſſolution
+<note n="g" place="margin">Rev. 14.13. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>.</p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>From the excellency of the preparation and proviſion</hi> which Chriſt makes ready againſt our Diſſolution. He orders his Purchaſe ſo that People may enjoy the benefit both by <hi>preparing,</hi>
+               <list>
+                  <item>
+                     <hi>It for them,</hi> and</item>
+                  <item>
+                     <hi>Them for it.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>By preparing this Building in the New</hi> Jeruſalem <hi>for his Servants.</hi> He chears up his Diſciples <hi>Manſions,</hi> or abiding rooms of reſt. <hi>If it were not ſo, I would have told you</hi> (and not have drawn you on with vain Hopes, had not this been certain) <hi>thither I go to prepare a place for you</hi>
+               <note n="h" place="margin">John 14.2, 3.</note>. <hi>Ma<g ref="char:EOLhyphen"/>homet</hi> gulls his ſilly Followers, who give Credit to him, that they ſhall enjoy a Paradiſe of ſenſual Pleaſures: but Chriſt is a true Prophet and no Impoſter. <hi>The way, the truth and the life.</hi> And he is now making this ſtately upper Room ready. He is our Advocate with the Father putting in his Plea for Poſſeſſion according to the purchaſe for all thoſe whoſe Names are put into the Bill of Sale; ſo that when they are warn'd out of theſe clayie Houſes, or Mud-wall Cottages, wherein they ſojourn as Tenants at Will, they may enter into the Joy of their Lord, who is alſo providing it for them.</p>
+            <p n="2">2. <hi>By preparing them for this dwelling in his Heavenly Court.</hi> For we find the Apoſtle Bleſſing God, that he made thoſe to whom he had deſigned to give a Kingdom, <hi>meet for the Inheri<g ref="char:EOLhyphen"/>tance of the Saints in light</hi>
+               <note n="i" place="margin">Coloſ. 1.12.</note> Chriſt doth not only procure them a Title, but trim them up, and make them ready with ſuit<g ref="char:EOLhyphen"/>able Ornaments of Holineſs, for ſuch an heavenly Ha<g ref="char:EOLhyphen"/>bitation. He takes care that they ſhould <hi>believe who are ordain'd to eternal Life</hi>
+               <note n="k" place="margin">
+                  <hi>Act.</hi> 13.48.</note> and that there be real Grace wrought within their Hearts to fit them for this Glory in Heaven. For as the learned <hi>Davenant</hi>
+               <note n="*" place="margin">
+                  <hi>in Coloſ.</hi> 1.12.</note> hath well ob<g ref="char:EOLhyphen"/>ſerv'd from <hi>Pariſienſis. The Soul of Man how compleatly
+<pb n="14" facs="tcp:58983:10"/>ſoever enabled with natural Endowments, till it be ſanctifyed with Grace, is not capable of being received into Glory.</hi> But becauſe Chriſt ſuits the Soul by Sanctification thereof, 'tis evident that the prepared Spirit ſhall enter into Glory prepared for it. Thus for <hi>Confirmation.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Aplicat. </seg>
+               </label> I ſhall only add <hi>Two Words</hi> for <hi>Application,</hi> The
+<list>
+                  <item>
+                     <hi>One of Sharpneſs,</hi>
+                  </item>
+                  <item>
+                     <hi>Other of Mildneſs.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Of Sharpneſs,</hi> and indeed ſadneſs <hi>to thoſe who practically ſlight this heavenly Building, prepared for the believing Soul.</hi> Oh! fooliſh People and unwiſe. How many are there even in the Church Roll, who never think of, or make prepara<g ref="char:EOLhyphen"/>tion for the fruition of this Bleſſed State. They do ſo much employ their Souls about other Matters, whilſt in their Earthly Tabernacles; that they regard not thoſe Manſions of Bliſs, wherein they may abide comfortably in their State of Separation. Oh! How few do (as they ſhould) conſider their future State, when their Bodies muſt be Meat for the Worms: they can ſit plodding how they may keep this Shell of the Body whole, but alas! when this is broken and becomes uſeleſs to their Souls for a time, they regard not, how the pretious Pearl, the Soul, may be ſafely laid up; how the Jewel may be preferr'd, when the Carkeſs of the Body is broken in pieces and trod under foot. They are much like that <hi>Great Lord</hi> (of whom likely, on ſuch an occaſion we have more than once been put in mind) who us'd to go yearly to ſeveral Houſes he had; but on a time falling Sick, <hi>one of his Servants</hi> (whom belike he had accounted none of the wiſeſt) ſaid to him, <hi>Sir, How do you?</hi> The Lord anſwer<g ref="char:EOLhyphen"/>ed, <hi>Woe is me! Woe is me! I muſt go hence.</hi> Pray Sir! Said the Servant, <hi>Whether go you?</hi> his Lord ſaid, <hi>Into another W rld.</hi> And <hi>will you return?</hi> Said the Servant, <hi>will you ſtay there any long time?</hi> Ah! ſaid the Lord, <hi>I ſhall never return again.</hi> Said the Servant, <hi>have not you ſent your Harbingers before you, to provide you of things neceſſary againſt the time you come there?</hi> Then his Lord was ſilent: whereupon the Servant ſaid, <hi>You have not done wiſely. For when you went but a ſhort time to any
+<pb n="15" facs="tcp:58983:10"/>of your Country Houſes, you us'd to ſend before to provide things meet for your Entertainment: Wherefore 'tis an unwiſe part in you, not to make preparation for that place where you muſt abide always.</hi> Oh! How many lye under the ſame guilt that this great Lord did, in laying aſide thoughts of this <hi>Heavenly Building,</hi> till they come to lye upon their Death Beds. But I beſeech you now we have warning, let none of us be found negligent of an Habitation for our Souls, <hi>eternal in the Hea<g ref="char:EOLhyphen"/>vens;</hi> which will be worthy our greateſt diligence to take care of, hence</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>A word of Mildneſs, Comfort, Sweetneſs and Encouragement unto true Believers,</hi> who are making ready; Both in regard of their own Souls; and the Souls of their Chriſtian Friends.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>In regard of themſelves,</hi> they need not fear but they ſhall better their ſtate by death: When the worſer part is in the Grave; the better, the Soul, will be there where it cannot but delight to dwell: <hi>The Spirit ſhall return to God that gave it.</hi> As the <hi>Hiſtorian</hi>
+               <note n="*" place="margin">
+                  <hi>I. Florus ut conſan<g ref="char:EOLhyphen"/>guinea civi<g ref="char:EOLhyphen"/>tas,</hi> &amp;c.</note> ſaid of <hi>Alba,</hi> that <hi>the Walls of the City were Demoliſh'd; but the Inhabitants carryed to</hi> Rome, <hi>that a City of the ſame Blood might not be altogether extinguiſh'd, but be reimbodyed into that State, from which it had its Original:</hi> So we may ſay of the Saints; though their Tabernacles be diſ<g ref="char:EOLhyphen"/>ſolved: Yet their Souls, ſhall be enſtated in Glory, that they may not be extinct, but received unto Chriſt, by whoſe Spirit they are begotten to this lively hope. Upon which conſideration it was, that <hi>Jubentius</hi> and <hi>Maximinus,</hi> called <hi>Death</hi> the <hi>laying off the Garments of their Fleſh; but a kind of un<g ref="char:EOLhyphen"/>dreſſing them for ſleep.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>In regard of their Chriſtian Friends;</hi> Believers when they ſee any of their near Relatives, depart from this Taberna<g ref="char:EOLhyphen"/>cle, wherein they ſerv'd their Generation according to the Will of God, they have no reaſon to ſorrow as thoſe with<g ref="char:EOLhyphen"/>out hope, for their Souls are only gone to dwell with Jeſus in the <hi>Building of God not made with hands.</hi> Death doth but carry the Souls of your Friends, who are eſpouſed here by faith unto their Bridgroom Chriſt, into the Bride Cham<g ref="char:EOLhyphen"/>ber in Heaven: Where the Nuptial Feaſt is ſolemniz'd. And
+<pb n="16" facs="tcp:58983:11"/>therefore <hi>Biſhop Ridley</hi> (when he was to dye by ſuffering of Martyrdoom) ſaid to ſome of his Friends, that <hi>he would have them come to ſee him, the next day, to rejoyce with him, for he was going to his Wedding.</hi> Be not dejected then that any of your godly Friends have left you; ſince their Souls are gone into the embraces of Chriſt. But rather make you ſure of an intereſt there, where they are: for</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> A 3d. <hi>Obſervation</hi> ariſing from the <hi>Text,</hi> (which I crave your leave to touch upon) is this.</p>
+            <p>
+               <hi>That a Believer may be aſſur'd his Soul ſhall go to Heaven, when he departeth hence.</hi> He may know when his Soul and Body are diſſolved, his Soul ſhall dwell with Chriſt in a Manſion of Glory. [We know] faith beleving <hi>Paul,</hi> that [<hi>we have a Building,</hi> &amp;c. He and other Believers with him were certain of it. I did clear this in the <hi>Explication,</hi> to be the meaning of the Expreſſions <hi>[we know we have.]</hi>
+            </p>
+            <p>Many Proofs might be alledg'd, I ſhall only name one; and that is in the Epiſtle to the <hi>Hebrews</hi>
+               <note n="l" place="margin">Heb. 10.34.</note> Believers are there brought in yeilding to ſuffering, upon this very Ground, they are in my <hi>Text</hi> ſtrengthened to bear the Croſs, <hi>viz. Knowing in your ſelves, that ye have in Heaven a better and an enduring ſubſtance, i. e.</hi> Having aſſurance of fulneſs of joy at Gods right hand, they joyfully parted with all that did ap<g ref="char:EOLhyphen"/>pertain to their Earthly Houſe of this Tabernacle. They know that as Perſecution did bring Death in one hand, ſo it did bring Life in the other. The <hi>Doctrine</hi> is naturally dedu<g ref="char:EOLhyphen"/>cible from my Text, and others parallel to it, by an Argu<g ref="char:EOLhyphen"/>ment <hi>Ab Eſſe; ad Poſſe.</hi> Many Believers <hi>have been</hi> aſſured of their Souls welfare in Heaven, in a ſtate of ſeperation upon their diſſolution; upon their <hi>abſence from the Body,</hi> that <hi>they ſhould be preſent with the Lord.</hi> And therefore <hi>Believers may come to know certainly they ſhall be ſaved.</hi>
+               <note place="margin">Certitudo
+<list>
+                     <item>ſcribilis</item>
+                     <item>ſcientis.</item>
+                  </list>
+               </note> And that not only with the <hi>certainty of the Object;</hi> but <hi>of the Subject:</hi> By a re<g ref="char:EOLhyphen"/>flex Act of the Soul, the Believer may attain to ſuch a full perſuaſion, that his Soul in particular, ſhall undoubtedly paſs out of the Body, into this Building of God not made with hands eternal in the Heavens.</p>
+            <pb n="17" facs="tcp:58983:11"/>
+            <p> The very <hi>Reaſons</hi> of the former Doctrine drawn from <hi>Chriſts promiſe, his purchaſe, and preparation of Heaven for Be<g ref="char:EOLhyphen"/>lievers,</hi> may alſo be a Ground of this. So that a Believer may by the Teſtimony of the holy Spirit, and internal Senſe, be able to aſſume, that he is a Believer: And ſo to infer, that he hath a ſure Title, and evidence to the eternal inheritance, he ſhall be poſſeſſed of at death. I might produce other Ar<g ref="char:EOLhyphen"/>guments from the <hi>comforts</hi> of the Spirit, eſpecially in ſealing Ordinances; as alſo from the <hi>Prayer of Chriſt,</hi> that Believers may be where he is: And from the <hi>precepts</hi> to examine our ſelves, and to give all diligence to get aſſurance; as alſo from the <hi>nature of truly Chriſtian hope,</hi> which lyes in the expectation of a certain good: For in that it doth tranſcend all the hope meer Moraliſts do talk of; the <hi>imutability of Gods promiſe as con<g ref="char:EOLhyphen"/>firm'd by his Oath,</hi> that we might heave <hi>ſtrong conſolation who have fled for Refuge unto the Hope-ſet before us, which hope we have as an Anchor of the Soul, both ſure and ſtedfaſt, and which entreth into that within the Vail</hi>
+               <note n="m" place="margin">Heb. 6.18, 19.</note> But your patience (I fear) already wearyed, forbids me the Enlargement of theſe par<g ref="char:EOLhyphen"/>ticulars, more fully to confirm this point.</p>
+            <p>Whence,
+<label type="milestone">
+                  <seg type="milestoneunit">Applic. </seg>
+               </label> 
+               <hi>by way of Improvement</hi> I might take occaſion to refute the Oppoſers of this Doctrine. And alſo infer ſome Corollaries; but I ſhall conclude only with A ſhort
+<list>
+                  <item>Information, and</item>
+                  <item>Exhortation.</item>
+               </list>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. For <hi>Information of the judgment, to prevent practical mi<g ref="char:EOLhyphen"/>ſtakes,</hi> give me leave in two Words.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>Though a ſincere Believer may know his future happy ſtate:</hi> Yet we muſt not thence conclude the <hi>formal nature of ſaving faith abſtrastly conſidered lyes in Aſſurance.</hi> Faith indeed requires Conſent, as well as Aſſent? Yet Aſſurance is not the firſt vi<g ref="char:EOLhyphen"/>tal Act of the Believing Soul: But that (as a judicious Wri<g ref="char:EOLhyphen"/>ter Notes
+<note n="*" place="margin">Dr. <hi>Ames exfide Ema<g ref="char:EOLhyphen"/>na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</hi>
+               </note>) which doth flow forth from that faith; when the Soul doth by a noble Operation reflect upon it ſelf, <hi>Faith</hi> thats the root, and this <hi>certain knowledge</hi> (as one ſays
+<note n="*" place="margin">Culver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Flos fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> is the Flower, the very iuſtro, and eminency of Faith. Aſſur<g ref="char:EOLhyphen"/>ance
+<pb n="18" facs="tcp:58983:12"/>is the top Branch, the flouriſhing of Faith, Faith with a gloſs upon it. Again.</p>
+            <p n="2">2. <hi>Though a true Believer may; yet every Believer doth not actually attain a certain knowledge of his Souls ſafety in a ſtate of glory.</hi> Some ſincere Converts walk in the dark, and ſee no light. The Sun of Righteouſneſs is Eclypſed from them: They are ſo far from an undoubted knowledge, that as to their own ſenſe, they may look upon themſelves as loſt; though God knows all this while that they are his, and that he will infallibly bring them to dwell for ever with him, in this ſtately Building in the new <hi>Jeruſalem;</hi> however for ends beſt known to himſelf, he may at preſent hide the ſtedfaſt ſight of joy and comfort from them, and not let them know their Priviledge, till they be poſſeſſed of Glory. Here for a better underſtanding of this matter we might diſtinguiſh of, A <hi>double certainty,</hi> of
+<list>
+                  <item>Adherence</item>
+                  <item>Evidence.</item>
+               </list>
+            </p>
+            <p n="1">(1.) <hi>Of Adherence,</hi> or affiance; which is when the Soul doth by a more direct Act of Faith, divolve or throw it ſelf on God, and by ſelf reſignation adventure on him, as the on<g ref="char:EOLhyphen"/>ly helper, able to ſave to the uttermoſt. Reſolving to fix there, ſaying <hi>if I periſh, I periſh.</hi>
+            </p>
+            <p n="2">(2.) <hi>Of Evidence,</hi> or undoubted ſtedfaſtneſs, ariſing from a certain Spiritual Senſe; whereby the Soul in reflecting on it ſelf, comes not only to ſtay it ſelf on God, but from ſweet Supplies of Peace and Comfort, to be fully perſwaded of a real Union to Chriſt. We may find Holy <hi>Job</hi> in both theſe ſeveral degrees, at ſeveral times, one time in the dark, yet then he adheres to God with humble Confidence. <hi>Though he ſlay me yet will I truſt in him.</hi> Another time he hath <hi>Evidence I know my Redeemer lives, and with theſe Eyes I ſhall ſee him.</hi> In the former direct act of Faith, he over<g ref="char:EOLhyphen"/>comes the Temptation; in the latter reflex Act, he is more than a Conqueror, in the former he was ſo certain that he reſolv'd to truſt God; in the latter he could Triumph in
+<pb n="19" facs="tcp:58983:12"/>him. So that tho' he was diſcourag'd, yet he ſaw he was not diſinherited; but his Title was confirm'd. Thus for Information of the Judgment to prevent miſtakes.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>For Exhortation,</hi> to perſwade and ſtir us up firſt to get a ſure Title to the Inheritance of the Saints in Light; and then to get it ſealed. Firſt, to get a <hi>Fiat</hi> or Grant, then an Obſignation. Oh! Chriſtians adhere to Chriſt, and then give all diligence to get an aſſurance of his Purchaſe, upon good grounds. Alas! How many in our Times, have built upon crackt Titles in Temporals, as if all had been ſure, that prov'd otherwiſe. But I fear more build upon Sandy Foun<g ref="char:EOLhyphen"/>dations in Spirituals. They apply themſelves to ſuch keep<g ref="char:EOLhyphen"/>ers of the Seal, as the King of Righteouſneſs hath not awar<g ref="char:EOLhyphen"/>ranted, taking Preſumptions for Evidences. And if ſo, when theſe Tabernacles are diſſolved they ſhall not have their Souls received into the King of Heavens Manſions, made without hands. No Key will open this Door into this heavenly Building, but one of Gods own making.</p>
+            <p>It would be proper here to propoſe ſome <hi>Marks, Motives</hi> and <hi>Means.</hi>
+            </p>
+            <p n="1">1. <hi>Marks to try our Titles;</hi> for the Heart is very deceitful. But if the Tabernacles of our Bodies be diſſolved, and we have only pleaſed our ſelves, with ſhadows of an imagi<g ref="char:EOLhyphen"/>nary Happineſs: what will become of us? Wherefore to be ſhort and plain with thee, who would indeed come to a certainty. If thy Goſpel Obedience (which is not perfect, nor can be in this Life) be not ſincere, univerſal and con<g ref="char:EOLhyphen"/>ſtant, I dare not ſav thou haſt a good Title to the building of God, not made with hands, if thou be not dead (at leaſt in thy predominant deſire) to Sin, I dare not aſſure thee (how Godly ſoever thou art reputed to be) that thou haſt a Life hid with Chriſt in God. It hath been argued a<g ref="char:EOLhyphen"/>mongſt ſome, whether Land did belong to <hi>England</hi> or <hi>Ire<g ref="char:EOLhyphen"/>land</hi> by putting Toads and Addors into it; If they dyed then it was held to belong to <hi>Ireland</hi> (whoſe Men be ſure are of a more viporous and biting Brood) if they lived then to <hi>England:</hi> ſo if Sin be alive and reign in thy Soul, then it is
+<pb n="20" facs="tcp:58983:13"/>a Native, arguing a Child of Wrath: but if it be dead, then it argues thou art a Child of Light, and that thou art an Inhabitant belonging to Heaven.</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>For Motives to quicken us up to get evidence of our ſpiritual Title,</hi> conſider the future good Eſtate of thy Soul, is far to be valued above aſſurance of an Eſtate for thy Body: and yet thou canſt ſcarce truſt part of that at Sea, for fear of a Storm, without ſome Evidence for Security ſeal'd at the Enſurance Office. Yet aſſurance of Heaven would free us, as from many diſtracting worldly Cares; ſo from many Jars and Diviſions here. It would compoſe us to a Settle<g ref="char:EOLhyphen"/>ment, were our Hearts eſtabliſhed with Grace: It would ſweeten our preſent Conditions to us, ſecure us from the Worlds Frowns, convert our Croſſes into Comforts. It would work that which the moſt Artificial Operator in Chymiſtry cannot do: elſe why ſhould <hi>Noy</hi> the Martyr ſay when he kiſſed the Stake, <hi>Bleſſed be the time that ever I was born for this day.</hi> Then turning to his fellow Martyrs, <hi>we ſhall not loſe our Lives in this Fire; but change them for a better, and have Pearls for Coals,</hi> &amp;c.</p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>For means or helps to get aſſurance,</hi> take a few <hi>Directions,</hi> which I muſt crowd together and caſt amongſt you, ſome Memories may catch one Sentence and ſome another. Con<g ref="char:EOLhyphen"/>ſider ſeriouſly the worth of thine immortal Soul, ſurpaſſing the whole World; Trade firſt and moſt for that pretious Jewel, with a diligent Enquiry after the ſafety of it. Be frequent in Heart-examination and Self-reflection. Re<g ref="char:EOLhyphen"/>view often the Experiences thou haſt had of God, yet not reſting in them, but ſtill putting forth direct Acts of Faith. Vigorouſly exert thy Faith in fervent Supplications and Praiſes. Study Self-denial; and get a willing reſignation of thy ſelf and Concerns to the will God, who diſpenſeth theſe Royal Favours of Aſſurance for the moſt part only to ſome of his Eminent Servants. Obſerve carefully the Seaſons of the Spirits Motions for Sealing, and defer not to cloſe with them. Keep thy ſelf clean from groſs Pollutions. Shun the appearance of Evil. And <hi>Laſtly,</hi> follow hard after Communion with God in all his Ordinances.</p>
+            <pb n="21" facs="tcp:58983:13"/>
+            <p> The careful obſervance of ſuch <hi>Directions</hi> as theſe and the like, was the uſual Courſe of our Learned, Prudent, and Godly Brother deceaſed, Mr. <hi>Henry Hurſt;</hi> for whoſe <hi>Funeral Solemnity</hi> we are here met at this time. I have been impor<g ref="char:EOLhyphen"/>tuned to entertain you with a Diſcourſe (ſuch an one as I can) on this mournful Occaſion: And you are come, I know, with greedy Ears, (as well as ſome of you) with weeping Eyes, as from the Word of God; which I have hi<g ref="char:EOLhyphen"/>therto treated on for your Edification; ſo to hear ſomewhat upon this doleful Subject, this <hi>faithful Miniſter of Christ,</hi> whoſe Remains we are about to lay up for a bleſſed Reſur<g ref="char:EOLhyphen"/>rection. The little I am able to ſay at this time ſhall be up<g ref="char:EOLhyphen"/>on good Grounds, having been not leſs than Thirty Years familiarly acquainted with him, neer half the time of his ſtay in this Tabernacle.
+<note place="margin">Aged about Eighty five Years.</note> He was the Son of the Reverend and Learned Mr. <hi>Henry Hurſt,</hi> Miniſter of the Goſpel, at <hi>Mickleton</hi> in <hi>Glouceſterſhire,</hi> where he lived to a good old Age, labouring in the Lords Vineyard there, with great Suc<g ref="char:EOLhyphen"/>ceſs, not many Years ſince, about Five or Six. This hope<g ref="char:EOLhyphen"/>ful, and everyway obedient Son, of ſo careful and tender a Father, when well ripened for the Univerſity in School-learning, (wherein he did excel the ordinary Rate) was placed in <hi>Oxford,</hi> under the inſpection of his pious and dili<g ref="char:EOLhyphen"/>gent Tutor, Dr. <hi>Henry Wilkinſon;</hi> who finding him to make a quick, yet happy, Progreſs in <hi>Philological</hi> and <hi>Philoſophical</hi> Studies, adorn'd with the real practiſe of Piety, was hearti<g ref="char:EOLhyphen"/>ly ready to help him to a Fellowſhip in <hi>Merton</hi> College; where, being elected into that Society, as it were tinctur'd with the Virtues of invincible <hi>Ocham,</hi> profound <hi>Bradwardin,</hi> and Evangelical <hi>Wickliff,</hi> (all of that Foundation) He ſoon became a very notable Diſputant. How have I known him, whilſt Batchelor of Arts, with great modeſty, yet with equal Dexterrity and Strength, to brandiſh his keen Arguments in the Schools, when an <hi>Opponent;</hi> and to anſwer with Judg<g ref="char:EOLhyphen"/>ment quickly and diſtinctly, when <hi>Reſpondent,</hi> with much Applauſe, at the courſing Exerciſes, as they were then called. In a while after (now ſomewhat above Thirty
+<pb n="22" facs="tcp:58983:14"/>Years ago) he was ſingularly noted for his Solid and Ortho<g ref="char:EOLhyphen"/>dox Sermons before the whole Univerſity; Three of which (from <hi>Rom. Chap.</hi> 7. <hi>verſe</hi> 7. the latter part) cutting the ve<g ref="char:EOLhyphen"/>ry Sinews of <hi>Pelagius</hi> and <hi>Socinus</hi> in ſome of their Doctrines; He was deſired to Print under the Title of <hi>[The Natural Mans Blindneſs.]</hi>
+               <note place="margin">
+                  <hi>Oxford</hi> 1659.</note> In an Epiſtle to the Reader of which, the Doctor his Tutor writes there, That <hi>the Author</hi> (<hi>viz.</hi> our deceaſed Friend, who hath grown much ſince in Learning, and all that's really Praiſe-worthy) <hi>was ſufficiently known to him, and many others, to be a Godly, Learned, and Orthodox Di<g ref="char:EOLhyphen"/>vine; who through his Modeſty, and low Opinion of himſelf, deny<g ref="char:EOLhyphen"/>ed, for a long time, his Conſent to the making of thoſe Sermons of publick uſe, and had ſupprest them altogether; but that through im<g ref="char:EOLhyphen"/>portunity he was prevailed with.</hi> This, with the great Eſteem he had in the Univerſity; the freedom of Speech he uſed in preaching, and his holy and exemplary Life, occaſioned his being choſen by the majority of the Pariſhoners Votes, to be Rector of <hi>Matthew</hi>'s, <hi>Friday-ſtreet London,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing the Fame of the then Candidates, one of which was the preſent Biſhop of <hi>London-Derry.</hi> There it was, being in the Neighborhood to the place where I was then employed, that I renewed mine Acquaintance with him; whom I ever found to be one of very great Humility and Affability, of an ex<g ref="char:EOLhyphen"/>cellent natural Temper, and great Moderation, very Inge<g ref="char:EOLhyphen"/>nuous and Judicious, moſt ready to communicate his Thoughts upon due Deliberation in a friendly way whenever deſired, being acted by an unfeigned Principle of Love to Chriſt and Chriſtians, affording Relief and prudent Advice to ſome, in ſome puſling, yet practical Caſes, wherein ſe<g ref="char:EOLhyphen"/>veral of our Brethren in the Miniſtry have often met with pertinent and ſolid Reſolutions; the conſideration of looſing an Advantage in the like, for future, may now ſadly accent our Grieſs. One Caſe he was called to ſtate and reſolve publickly, in the Morning Exerciſe at <hi>Cripple-Gate</hi> 1661. <hi>Whether well compoſed Religious Vows do not exceedingly promote Religion?</hi> from <hi>Pſal.</hi> 116.12, 14. But the Year after, not<g ref="char:EOLhyphen"/>withſtanding his Moderation, (after ſolemn ſeeking of God
+<pb n="23" facs="tcp:58983:14"/>by Prayer, with Faſting) becauſe he could not declare his Aſſent and Conſent to all and every thing contained in the <hi>Liturgie,</hi> he was,
+<milestone type="tcpmilestone" unit="unspecified" n="1662"/> at the lamentable <hi>Bartholomew-tide</hi> ejected (with Two thouſand more of his Brethren) from his Be<g ref="char:EOLhyphen"/>nefice, and the Exerciſe of his publick Miniſtry; which lat<g ref="char:EOLhyphen"/>ter, yet he would tell his Friends, he lived in Hopes ſome time again, in ſome Reſpects to be reſtored to. In the mean time he took all Opportunities, becauſe a <hi>Neceſſity was laid upon him to preach the Goſpel;</hi> to do what he could for the good of Souls, both more privately and publickly. For to ſay nothing of his Treatiſe afterward printed, called <hi>The Revi<g ref="char:EOLhyphen"/>val of Grace, with the Vigour and Fragrancy of it.</hi> Shewing the Benefit of Sacramental Communion,
+<note place="margin">
+                  <hi>April</hi> 1678.</note> dedicated to the very Learned, the Right Honourable <hi>Arthur Earl of Anlgleſey,</hi> in whoſe Family he had an opportunity of exerciſing his Mi<g ref="char:EOLhyphen"/>niſtry, as being then his well eſteemed Chaplain. He had ſeveral Invitations amongſt them, who well knew his mo<g ref="char:EOLhyphen"/>deration and Worth, to preach ſeveral times publickly in his Native Country (where none informed againſt him) as well as at <hi>Aſhford</hi> in <hi>Kent,</hi> when he went thither to viſit the Relations of his former Wife. And when there was an Indulgence of Liberty,
+<milestone type="tcpmilestone" unit="unspecified" n="1675"/> we may find him in the morning Exerciſe againſt <hi>Popery,</hi> very learnedly, after his uſual man<g ref="char:EOLhyphen"/>ner, ſhew from Acts 26.2. <hi>That Kings and Emperors are not rightful Subjects to the Pope.</hi> After that, he being one not likeing to flatter, or be flattered, we find him better enabled to give a Satisfactory Anſwer to that practical Queſtion. <hi>How may we beſt cure the Love of being flattered?</hi>
+               <note place="margin">
+                  <hi>October</hi> 1682.</note> which he did well perform at the continuation of the morning Exerciſe, * in his Sermon upon <hi>Proverbs</hi> 26.28. Since in <hi>October</hi> laſt, reſolving practically: <hi>How may we enquire after News,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1689"/> 
+               <hi>not as</hi> Athenians, <hi>but as</hi> Chriſtians, <hi>for the better managing our Pray<g ref="char:EOLhyphen"/>ers and our Prayſes for the Church of God?</hi> From <hi>Acts.</hi> 17.21. In his Funeral Diſcourſe in this Month Thirteen Years ago, upon the departure of that uſeful Miniſter Mr. <hi>Thomas Caw<g ref="char:EOLhyphen"/>ton</hi> (who had done much work in a little time) may be ſeen, what a Pattern he ſet before his Hearers, from <hi>Luke</hi> 12.43.
+<pb n="24" facs="tcp:58983:15"/>Beſure he was ever ready to do good, and unwilling to de<g ref="char:EOLhyphen"/>cline any Service that lay in his Power, when invited to it. His judicious <hi>Annotations upon</hi> Exekiel <hi>and the Twelve leſſer Prophets</hi> (in the Continuation of Mr. <hi>Poole's</hi>) were ſo well approv'd, That he was deſired ſince, to take ſome further pains of that Nature, about ſome other parts of the Holy Writ: But God hath eaſed him of that Work he was almoſt prevailed with to undertake, as well as of what he was ur<g ref="char:EOLhyphen"/>g'd to perform at <hi>Oxford,</hi> you who were his conſtant hear<g ref="char:EOLhyphen"/>ers, will all bear witneſs, he was in Labours more abundant.
+<note n="m" place="margin">2. Cor. 11.23.</note> Beſides his weekly Lectures at <hi>High-gate,</hi> you can very well tell in all his Miniſterial Offices, what pains he took amongſt you, and how affectionately ſolicitous he was to bring your young Ones to the knowledg of God, by his diligent Catechizing of them, and in a moſt clear and pro<g ref="char:EOLhyphen"/>fitable Method, explaining to them the main Principles of Chriſtianity. Till the laſt <hi>Lords Day</hi>
+               <note n="*" place="margin">April. 13. 1690. Heb. 11.6.</note> God who is a Re<g ref="char:EOLhyphen"/>warder of thoſe who diligently ſeek him <hi>(n)</hi> was pleaſed to give him a <hi>Quietus eſt,</hi> the next morning taking him from his Work to receive his Wages, advancing him from the Pulpit to the Throne,
+<note n="*" place="margin">April. 14.</note> as he did the laborious Biſhop <hi>Jewell</hi> (who was firſt of the ſame <hi>Merton</hi> College in <hi>Oxford</hi>) in ſomewhat alike manner; from preaching at <hi>Lacock</hi> in <hi>Wilſhire;</hi> (now near an hundred and twenty Years ſince) who had ſaid to a Gentleman diſwading him from Preaching then,
+<milestone type="tcpmilestone" unit="unspecified" n="1571"/> 
+               <hi>It did beſt become a Biſhop to dye Preaching (or ſtanding) in the Pulpit,</hi> ſeriouſly thinking of that comfortable Elogy of his Lord and Maſter (which you heard our Preacher choſe for his Text at the interment of Mr. <hi>Cawton</hi>) <hi>Happy art thou my Servant if when I come I find thee doing.</hi> An In<g ref="char:EOLhyphen"/>genious Poet of our own, ſaid in his Jambicks of the ex<g ref="char:EOLhyphen"/>cellent Mr. <hi>Vines,</hi> who went to his eternal Reſt the Night after his Preaching and Adminiſtring the Lords Supper. <hi>Abit,</hi>
+               <note place="margin">
+                  <hi>The begin<g ref="char:EOLhyphen"/>ning of</hi> Mar. 1655.</note> 
+               <hi>(beata Mors!) Modis oper<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et hiſce Epiſcopum mori.</hi> And another <hi>then,</hi> to the ſame purpoſe, in our Mother Tongue wrote alſo.</p>
+            <lg>
+               <pb n="25" facs="tcp:58983:15"/>
+               <l>
+                  <hi>Our</hi> Engliſh Luther,
+<note place="margin">
+                     <hi>Such Poetry was in fa<g ref="char:EOLhyphen"/>ſhion</hi> then, <hi>in memory of Eminent Perſons of all Perſwa<g ref="char:EOLhyphen"/>ſions. Pray bear with it now.</hi>
+                  </note> Vines <hi>(whoſe Death I weep)</hi>
+               </l>
+               <l>
+                  <hi>Stole away (and ſaid nothing) in a ſleep:</hi>
+               </l>
+               <l>
+                  <hi>Sweet like a Swan, he Preach'd that day he went,</hi>
+               </l>
+               <l>
+                  <hi>And for his Cordial, took a Sacrament.</hi>
+               </l>
+               <l>
+                  <hi>Had it but been ſuſpected—he would dye,</hi>
+               </l>
+               <l>
+                  <hi>His People ſure had ſtopp'd him with a cry.</hi>
+               </l>
+            </lg>
+            <p>But his Hour was then come; and ſo was that of the fa<g ref="char:EOLhyphen"/>mous Mr. <hi>Hollingworth</hi> at <hi>Mancheſter,</hi> who when at a Faſt in Praying and Preaching he had as far outdone himſelf that day as he uſed to out do other Miniſters, chang'd his Habitation here, for a better (having done his Work) upon the irreſiſtable ſtrake of a deadly Apoplexy. So was that (as I have heard) of the holy Mr. <hi>Ambroſe.</hi> So that of the laborious and much followed Mr. <hi>Watſon,</hi> and we know lately of our Brother Mr. <hi>Oakes,</hi> carried out of the Pulpit: As was the Learned and Pious Profeſſor Dr. <hi>Joſhua Hoyl</hi> out of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> Pulpit in <hi>Oxford;</hi> And ſo was that of this our lamented Brother. <hi>Elſe.</hi> When up<g ref="char:EOLhyphen"/>on the warning given by his faltering in his Diſcourſe; The Sun (in <hi>Solomons</hi> Phraſe)
+<note n="o" place="margin">Eccleſ. 12.2.</note> began to be darkened towards five of the Clock the laſt Lords Day Afternoon, in his Sermon after his long and excellent Catechizing, and he was carried in a Chair to the Houſe of his tender and hoſpitable Entertainer, where his other faithful Friends and Phyſician ſhortly gave their attendance, and with the greateſt Diligence and Art uſed the various Means that are accounted moſt proper and ſucceſsful in ſuch Symptoms: Yet the darkneſs ſo encreaſed, that by Nine of the Clock that Night it brought a <hi>Total Eclipſe,</hi> an Univerſal Paralyſis or Dead Palſy. And (as it's thought) the <hi>Pia mater,</hi> as the Ancients did reverentially call that inmoſt Membrane or Skin, which as Leaf-gold doth en<g ref="char:EOLhyphen"/>cloſe the Brain and Animal Spirits, ſnapp'd aſunder: this <hi>Golden Bowl was broken</hi>
+               <note n="p" place="margin">Eccleſ. 12.6.</note> being overfil'd (it ſhould ſeem) upon Convulſive Motions with the remaining
+<pb n="26" facs="tcp:58983:16"/>gouty Matter (he had before been troubled with) which flow'd into it and ſhew'd it ſelf in a Remediles <hi>deadly A<g ref="char:EOLhyphen"/>poplexy,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 9 <hi>and</hi> 10 <hi>in the Morn<g ref="char:EOLhyphen"/>ing,</hi> Apr. 14.</note> whereof he expir'd. If the very utmoſt and heartieſt Endeavours of his skilful and tenderly affected Doctor of Phyſick, the moſt fervent Prayers of his Re<g ref="char:EOLhyphen"/>verend and Affectionate Brother in the Miniſtry Mr. <hi>Burges,</hi> expreſſing the ſincere and deep groans of his own, and the Hearts of his loving and ſorrowful People, eſpe<g ref="char:EOLhyphen"/>cially thoſe of his dear Relatives, and his dearly beloved and compaſſionate Friends, who with freedom did moſt kindly entertain him, [as <hi>Gaius did Paul, and the Church</hi>]
+<note n="q" place="margin">Rom. 16.23. Heb. 13.2.</note> as often before, by friendly receiving him and his; ſo now, when this good Angel of the Church left all here below, to be like the Angels of God in Glory, had prevail'd in kind, we had not yet been call'd to attend his Funeral Pile.</p>
+            <p>But <hi>the will of the Lord is done,</hi> and he that e're while went about doing good in imitation of his and our Lord, walking in the Comforts of the Holy Ghoſt, and much aſſurance of being ever with the Lord: whom he did daily bleſs for it, as much as any one I did ever Converſe with, hath upon little warning (being ever ready) left his Clayey Tabernacle, and hath a glorious Manſion in the building not made with hands eternal in the Heavens.</p>
+            <p>What doth more concern us all, than that his dear Relatives, we Miniſters, and People, ſhould follow him as cloſe as we can, wherein he was an Eminent Follow<g ref="char:EOLhyphen"/>er of Chriſt, who comes at an hour we know not of and bids us <hi>therefore to be ready</hi>
+               <note n="r" place="margin">Mat. 24.44.</note>.</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> To the <hi>diſconſolate Widow and dear Children</hi> (ſo far as capable, and he thats gone us'd to ſay, <hi>God beſt knows the Religion of Children</hi>) with other Relatives of this rare Hus<g ref="char:EOLhyphen"/>band, Father and Friend: I would ſubjoyn a few words with all tenderneſs, to entreat you to moderate your paſſions. They that <hi>are Chriſt's do crucifie the Fleſh and
+<pb n="27" facs="tcp:58983:16"/>all diſorderly affections,</hi>
+               <note n="s" place="margin">Gal. 5.24.</note> eſpecially when feelingly engag'd to be mindful of their own mortality. You find the Tabernacle of your deareſt Relative quickly taken down, but you are ſatisfy'd he hath a firm and glorious Building inſtead of it, which can never be taken down, where you deſire to be. Mourn not then as <hi>thoſe who are without hope</hi>
+               <note n="t" place="margin">1 Theſ. 4.13.</note> Though he is gone out of your ſight, yet he is but gone to the bleſſed ſight of God, who would have it ſo. And therefore you ſhould ſubmit your Wills, to the Will of his, and your Father. And quietly ſay, <hi>it is the Lord, let him do what ſeemeth him good</hi>
+               <note n="u" place="margin">1 Sam. 3.18.</note> When you are apt to fall into exceſſive ſorrow for his diſſolution, and chan<g ref="char:EOLhyphen"/>ging his Habitation. I would adviſe you to think you heard him ſay, as Chriſt did upon his going away to his Diſciples
+<note n="w" place="margin">John 14.28.</note> 
+               <hi>If ye lov'd me, ye would rejoyce, becauſe I ſaid I go to the Father: For my Father is greater than I.</hi> He who hath moſt dignity hath moſt right to choſe. Let not Self-love be ſo prevalent as to diſparage your love to him that is gone. True love to whom ſhould teach you to ſubmit to that which doth advance and honour him, how croſs ſo<g ref="char:EOLhyphen"/>ever it be to your ſelves: Call to mind a freſh I beſeech you ſuch directions as he himſelf whiles he ſtaid here, did give you to allay immoderate grief in former inſtan<g ref="char:EOLhyphen"/>ces. Be you more Chriſtian now, he whom you lov'd moſt is gone to Chriſt. The better he was to you, the better be you to his great Friend, who hath lockt him up in his Cloſet with him till the Reſurrection.</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> To thoſe of us who are <hi>Miniſters</hi> in the ſervice of the ſame Lord, I would ſay. As the Deceaſed whiles here in his Earthly Houſe abounded in the Work of the Lord; ſo ſhould we work the work of him that hath ſent us into his Vineyard while it is day; ſince the night com<g ref="char:EOLhyphen"/>eth when no Man can Work
+<note n="x" place="margin">Joh. 9.4.</note> our great buſineſs (eſpeci<g ref="char:EOLhyphen"/>ally now that we have liberty) is to Preach the Word, to be inſtant in Seaſon, and out of Seaſon, Reprove, Re<g ref="char:EOLhyphen"/>buke, Exhort, with all long ſuffering and Doctrine
+<note n="y" place="margin">2 Tim 4.2.</note>
+               <pb n="28" facs="tcp:58983:17"/>Wherein he was both ſound and ſtedfaſt. A faithful Steward and deligent Watch-man he was, a careful Shep<g ref="char:EOLhyphen"/>herd, who did truly <hi>love Chriſt, Feed his Sheep, and feed his Lambs</hi>
+               <note n="z" place="margin">John 21.</note> which did thrive and grow under the charge of him,
+<note place="margin">
+                  <hi>Britan. Kent.</hi> p. 33.8.</note> who (according to what <hi>Camden</hi> ſaid of <hi>Whitgiſt</hi>) had <hi>devoutly conſecrated his whole Life to God, and all his pain<g ref="char:EOLhyphen"/>ful labours to the Church.</hi> All of us Brethren under this So<g ref="char:EOLhyphen"/>lemn Dedication ſhould be prudent and active, as our Deceaſed Brother was in his day, when we are called. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>But our ſufficiency is of God even as the Lord giveth to every Man</hi>
+               <note n="a" place="margin">2 Cor. 2.16.36. 1 Cor. 3.5, 6, 8</note> 
+               <hi>to plant or water</hi> in the Vineyard of God, who <hi>gave and giveth the increaſe, and the reward,</hi> Lets do what we can prudently, and peaceably, and fervently, that the Church may thrive under our care. As our dear Brother did; neither overloving this Life, nor diſtruſting a better, but freely reſign up our ſelves and concerns to the diſpoſal of him, in whom we Believe, and whom we Preach, that our <hi>Faith alſo may be found unto Praiſe, and Honour and Glory at the ap<g ref="char:EOLhyphen"/>pearing of Jeſus Chriſt.</hi>
+               <note n="*" place="margin">1 Pet. 1.7.</note>
+            </p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> To the <hi>People</hi> eſpecially thoſe who were under his peculiar care, I would ſay. Let his memory live in you, his ſound Doctrine abide with you, his Exemplary Holi<g ref="char:EOLhyphen"/>neſs be Copy'd out by you, let his edifying diſcourſes, his friendly viſits his goings out, and comings in be much upon your hearts. Be not carryed away with Errors, fall not from your ſtedfaſtneſs. <hi>Be perfect, be of good com<g ref="char:EOLhyphen"/>fort, be of one mind, live in peace, and the God of Peace ſhall be with you</hi>
+               <note n="b" place="margin">2 Cor. 13 11.</note>. Let it be ſeen he did not ſpend his Labour in vain amongſt you. When you come to conſider of one to ſucceed him, to whom you would commit the care of your Souls, lay aſide thoſe animoſities that have broken other Congregations, and endeavour with unani<g ref="char:EOLhyphen"/>mity in due circumſtances, to pitch upon ſuch an one, as you are perſwaded your late worthily <hi>Beloved Paſtor</hi> would have recommended to you. Let none of you diſ<g ref="char:EOLhyphen"/>parage
+<pb n="29" facs="tcp:58983:17"/>his <hi>Reverend Collegue</hi> in the Miniſtry, to whom he paid a Deference. Give check to dividing Principles; Delay not your Determination longer than is neceſſary. As you are to ſeek God, ſo you are to ſearch his Word, and make that the Rule of your Proceedings. I am not well enough acquainted with your Circumſtances to be particular; and have already ſtaid too long: Only do all as <hi>becometh the Goſpel of Chriſt</hi>
+               <note n="c" place="margin">Phil. 1:27.</note>. Now you are concern<g ref="char:EOLhyphen"/>ed very ſingularly in this great Affair, to imprint and publiſh the Sermons of your deceaſed Paſtor in your Lives, for as Biſhop <hi>Reynolds</hi> wrote appoſitely under his own <hi>Effigies</hi> plac'd before his Works,
+<q>
+                  <l>
+                     <hi>Sermons take not from Mens Applauſe, Renown,</hi>
+                  </l>
+                  <l>
+                     <hi>The Peoples Practice, is the Preachers Crown.</hi>
+                  </l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:58983:18"/>
+            <head>ADVERTISEMENT.</head>
+            <p n="1">1. AN Hiſtorical Account of making the <hi>Penal Laws</hi> by the <hi>Papiſts</hi> againſt the <hi>Proteſtants,</hi> and by the <hi>Proteſtants</hi> againſt the <hi>Papiſts.</hi> Wherein the true <hi>Ground</hi> and <hi>Reaſon</hi> of making the <hi>Laws</hi> is given, the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> moſt barbarous Uſage of the <hi>Proteſtants</hi> here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> under a Colour of <hi>Law,</hi> ſet forth; and the <hi>Reforma<g ref="char:EOLhyphen"/>tion</hi> vindicated from the Imputation of being <hi>Cruel</hi> and <hi>Bloody,</hi> unjuſtly caſt upon it by thoſe of the <hi>Romiſh Commu<g ref="char:EOLhyphen"/>nion.</hi> By <hi>Samuel Black<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Barriſter of <hi>Grays-Inn. Folio.</hi>
+            </p>
+            <p n="2">2. <hi>The Lives of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Written in <hi>Latin</hi> by <hi>Corn. Nepos:</hi> And <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Engliſh</hi> by ſeveral Gentle<g ref="char:EOLhyphen"/>men in the Univerſity <hi>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>xon. Large Octavo.</hi>
+            </p>
+            <p n="3">3. <hi>The Firſt Fruits of Reaſon:</hi> Or, <hi>A Diſcourſe,</hi> ſhewing the neceſſity of applying our ſelves betimes to the ſerious Practice of Religion. By <hi>Anthony Horneck</hi> D.D. Preach<g ref="char:EOLhyphen"/>er at the <hi>Savoy. Twelves.</hi>
+            </p>
+            <p n="4">4. <hi>A Diſcourſe of Wit.</hi> By <hi>David Abercromby,</hi> M. D. <hi>(Twelves.</hi>
+            </p>
+            <p>
+               <hi>All Four Printed for</hi> John Weld <hi>at the</hi> Crown <hi>between the</hi> Two <hi>Temple-Gates</hi> in <hi>Fleet-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
